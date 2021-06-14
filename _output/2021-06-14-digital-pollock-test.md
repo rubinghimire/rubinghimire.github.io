@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Digital Pollock
-date:   2021-06-13 19:32:25 +0545
+date:   2021-06-14
 ---
 These are a series of Digital Paintings I experimented with using jacksonpollock.org in 2020 and 2021. 
 I set a series of titles as a way to relate my interpretation of the paintings at the time of creation.
