@@ -1,0 +1,11 @@
+---
+layout: default
+title: Rubin Ghimire's Creative Work
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="creative-posts">
+
+	  {% for post in site.output %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
