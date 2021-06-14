@@ -3,7 +3,6 @@ layout: default
 title: Creative Blog
 category: creative
 ---
-{% raw %}
 {% for post in site.posts %}
   {% if post.categories contains 'creative' %}
 	<div class="post">
@@ -15,4 +14,3 @@ category: creative
 	</div>
   {% endif %}
 {% endfor %}
-{% endraw %}
