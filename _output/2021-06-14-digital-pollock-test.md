@@ -9,4 +9,4 @@ The fascinating aspect about this experience was that my love for Pollock (initi
 In addition, the digital medium of expression meant a new way to relate to my art, as this was perhaps my first major digital painting endeavor.
 This was a fun project that required no skill other than moving the mouse around using a laptop computer. 
 I particularly enjoyed the color combinations the algorithm came up with and the various emotions that accompanied it.
-{% include image-gallery.html folder="/assets/img/Paintings/digital-pollock" %}
+{% include image-gallery-jpg.html folder="/assets/creative/paintings/digital-pollock" %}
